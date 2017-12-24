@@ -171,7 +171,7 @@ int main(){
 							B*resolution-1, // row
 							i*resolution, // column,
 							0.0, 		// angle
-							0,			// collision_ratio
+							0.0,			// collision_ratio
 							0);
 
 
