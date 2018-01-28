@@ -2,9 +2,10 @@
 
 ## MCM PROBLEM B: Merge After Toll
 
-Team: (Mek) Teerapat Jenrungrot, Ziyang Zhang
+Team: Herrick Fang, (Mek) Teerapat Jenrungrot, Ziyang Zhang
 
 [Problem](problem.pdf)
+
 [Solution](solution.pdf)
 
 We worked on finding a way to optimize toll booths. We made a quick model in the .cc file that simulates cars.
